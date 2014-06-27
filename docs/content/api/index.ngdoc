@@ -284,7 +284,7 @@ Use ngMock to inject and mock modules, factories, services and providers within 
       <p>
         Various helper functions are available to inject and mock modules within unit test code.
       </p>
-
+test
       <p>
         Some examples
           {@link angular.mock.inject inject()},
